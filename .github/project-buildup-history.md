@@ -12,3 +12,7 @@
 
 - Task summary: Used the next day to keep the momentum going for SponsorSync Influencer Marketplace. I was still piecing things together, so I focused on trying to collect examples, competitor references, and raw notes before choosing features and wrote down the stuff that looked important. At this stage nothing was fully locked, so I kept a rough list of things that looked useful and ignored the rest for now. A good chunk of the day went into making the flow feel believable from a user point of view.
 - Deliverable: I wrapped up the day with research notes mostly in place. It was not perfect, but it was good enough to keep the project moving. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2023-03-17 - Day 3: Scope pass
+
+- Task summary: By this point I had the rough direction, so the work became more practical. I spent most of the day trying to decide what belongs in version 1 and what can wait and make the whole thing feel less half baked. By now I had enough structure to keep going without staring at the screen too long, which honestly helped a lot. This kind of work is mostly small decisions stacked together, even if it does not look dramatic from outside.
+- Deliverable: I wrapped up the day with feature scope mostly in place. It was not perfect, but it was good enough to keep the project moving. It was not super polished, just stable enough that I felt okay moving forward.
