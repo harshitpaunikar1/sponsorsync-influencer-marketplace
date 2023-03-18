@@ -16,3 +16,7 @@
 
 - Task summary: By this point I had the rough direction, so the work became more practical. I spent most of the day trying to decide what belongs in version 1 and what can wait and make the whole thing feel less half baked. By now I had enough structure to keep going without staring at the screen too long, which honestly helped a lot. This kind of work is mostly small decisions stacked together, even if it does not look dramatic from outside.
 - Deliverable: I wrapped up the day with feature scope mostly in place. It was not perfect, but it was good enough to keep the project moving. It was not super polished, just stable enough that I felt okay moving forward.
+## 2023-03-18 - Day 3: Scope pass
+
+- Task summary: Half-day Saturday session. Decided to finish the README section I skipped on Friday — cleaner now.
+- Deliverable: Solid now, moving on.
