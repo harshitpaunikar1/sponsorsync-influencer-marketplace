@@ -44,3 +44,7 @@
 
 - Task summary: Sunday evening, couldn't leave the failing assert alone. Tracked it down to a missing sort step. Resolved.
 - Deliverable: Solid now, moving on.
+## 2023-03-27 - Day 9: Interactions
+
+- Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to add the minimum JavaScript interactions needed to make the flow understandable so the final result looked a bit more complete. By now I had enough structure to keep going without staring at the screen too long, which honestly helped a lot. This kind of work is mostly small decisions stacked together, even if it does not look dramatic from outside.
+- Deliverable: Ended the day with working interactions in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
