@@ -56,3 +56,7 @@
 
 - Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to create or organize diagrams, screenshots, and supporting visuals so the final result looked a bit more complete. I was not trying to add anything fancy here, just making sure the thing looked complete enough to show someone. I was also trying to keep the idea grounded so it did not drift into random features for no reason.
 - Deliverable: Ended the day with support visuals in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
+## 2023-03-28 - Day 10: Artifacts
+
+- Task summary: Came back after lunch and realized fixed a type coercion issue that was causing silent NaN propagation downstream.
+- Deliverable: Should've caught it earlier but better now than later.
