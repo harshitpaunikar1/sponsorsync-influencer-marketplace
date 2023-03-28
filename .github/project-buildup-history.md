@@ -60,3 +60,7 @@
 
 - Task summary: Came back after lunch and realized fixed a type coercion issue that was causing silent NaN propagation downstream.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2023-03-28 - Day 10: Artifacts
+
+- Task summary: After stepping away for a bit, came back and added a sanity check assertion that would catch obvious data shape issues early.
+- Deliverable: Solid now, moving on.
