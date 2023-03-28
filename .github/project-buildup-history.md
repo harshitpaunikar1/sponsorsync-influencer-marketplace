@@ -52,3 +52,7 @@
 
 - Task summary: After stepping away for a bit, came back and the variable names were inconsistent so cleaned those up across the notebook before calling it done.
 - Deliverable: Minor but worth doing.
+## 2023-03-28 - Day 10: Artifacts
+
+- Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to create or organize diagrams, screenshots, and supporting visuals so the final result looked a bit more complete. I was not trying to add anything fancy here, just making sure the thing looked complete enough to show someone. I was also trying to keep the idea grounded so it did not drift into random features for no reason.
+- Deliverable: Ended the day with support visuals in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
