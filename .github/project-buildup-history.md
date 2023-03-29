@@ -64,3 +64,7 @@
 
 - Task summary: After stepping away for a bit, came back and added a sanity check assertion that would catch obvious data shape issues early.
 - Deliverable: Solid now, moving on.
+## 2023-03-29 - Day 11: README check
+
+- Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to write a README that explains the problem, solution, and how to review the project so the final result looked a bit more complete. Most of the heavy lifting was already done, so this part was more about making the rough edges less obvious. A good chunk of the day went into making the flow feel believable from a user point of view.
+- Deliverable: Ended the day with project README in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
