@@ -72,3 +72,7 @@
 
 - Task summary: Used the last day on SponsorSync Influencer Marketplace to slow down and finish the loose ends. I mainly had to do a final pass for clarity, consistency, and first-impression quality and make sure the project told a clean story from start to finish. Toward the end I mostly kept trimming weird bits, fixing wording, and tying the loose parts together. This kind of work is mostly small decisions stacked together, even if it does not look dramatic from outside.
 - Deliverable: Finished with final polish looking decent enough to call this version done, even if I could still nitpick a few things. It was not super polished, just stable enough that I felt okay moving forward.
+## 2023-03-30 - Day 12: Polish wrap
+
+- Task summary: After stepping away for a bit, came back and added inline comments in the dense sections — would have been confusing to revisit without them.
+- Deliverable: Nothing dramatic — just keeping things tidy.
